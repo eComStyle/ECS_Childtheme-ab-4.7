@@ -1,0 +1,1 @@
+In diesen Ordner bitte die gewünschten Templatedateien aus dem Azuretheme unter Beibehaltung der Ordnerstruktur kopieren und anpassen.
