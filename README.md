@@ -23,7 +23,7 @@ Licensing:
 	eComStyle.de
 	Author: Josef Andreas Puckl
 
-	Copyright 2013 eComStyle.de
+	Copyright 2014 eComStyle.de
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
